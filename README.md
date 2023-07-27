@@ -1,2 +1,4 @@
-# beloved_companies
-An Array of Company Strings I Love
+# An Array of Company Strings I Love.
+
+System76
+
